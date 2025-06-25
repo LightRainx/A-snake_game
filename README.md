@@ -1,4 +1,4 @@
-#A little snake_gamne
+A little snake_game:
 
 一个非常非常小or无聊到爆的贪吃蛇游戏（Full of bug）
 
